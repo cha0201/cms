@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+
+image:
+  path: /image/data/{0}/{1}.{2}
